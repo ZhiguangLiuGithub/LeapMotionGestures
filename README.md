@@ -1,5 +1,4 @@
-# LeapMotion
-Dynamic Gesture Recognition using Leap Motion
+# Dynamic Gesture Recognition using Leap Motion
 
 Based on the work done [here](http://scholarworks.rit.edu/cgi/viewcontent.cgi?article=1877&context=other) it is proposed to use trajectory based images to discriminate between dynamic gestures found at this [Dataset](https://github.com/rcmccartney/DataCollector).
 
